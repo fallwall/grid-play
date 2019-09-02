@@ -2,7 +2,6 @@
   display: grid;
   grid-template-rows: 25% 25% 25% 25%;
   grid-template-columns: 25% 25% 25% 25% 25%;
-  font-size: 1.5em;
 }
 
 .container {
@@ -14,4 +13,6 @@
 .text {
   text-align: center;
   line-height: 25vh;
+  font-size: 0.5em;
 }
+
