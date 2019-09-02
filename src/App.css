@@ -1,4 +1,12 @@
-.App {
+* {
   text-align: center;
+  font-family: 'Noto Serif', serif;
+  font-weight: 800;
+}
+
+a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: black;
 }
 
