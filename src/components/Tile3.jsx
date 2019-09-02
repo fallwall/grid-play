@@ -50,7 +50,7 @@ const content = [
   {
     url: 'https://i.imgur.com/CgNO79o.jpg',
     title: 'Half Dome Entrance of Daisy @ Beale Street',
-    caption: 'Some kind of historical-looking music vanue'
+    caption: 'Some kind of historical-looking music venue'
   },
   {
     url: 'https://i.imgur.com/gtDxUaj.jpg',
