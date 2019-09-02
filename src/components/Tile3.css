@@ -66,7 +66,7 @@
 #categories div h1, #categories div p{
   width:90%;
   padding:0 5%;
-  background-color:#008080; background-color: rgba(123, 158, 158, 0.8);
+  background-color:#008080; background-color: rgba(73, 77, 77, 0.8);
   transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
 }
 #categories li h1{
