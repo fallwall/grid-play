@@ -18,6 +18,7 @@ a {
 
 @media only screen and (max-width: 800px) {
   #categories li h1,
+  #categories li p,
   .text,
   .tile-container
   {
