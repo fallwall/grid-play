@@ -12,9 +12,9 @@ export default class App extends Component {
     return (
       <div>
         <Jump><div className="header">
-          <Link to="/">Home</Link>
-          <Link to="/tile1">Tile1</Link>
-          <Link to="/tile2">Tile2</Link>
+          <Link to="/">Home</Link>   / 
+          <Link to="/tile1">Tile1</Link>   /
+          <Link to="/tile2">Tile2</Link>   /
           <Link to="/tile3">Tile3</Link>
         </div></Jump>
 
