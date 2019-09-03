@@ -18,6 +18,12 @@
   font-size: 1.5em;
 }
 
+.author {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
 @keyframes fadein {
   from { opacity: 0; }
   to   { opacity: 1; }
