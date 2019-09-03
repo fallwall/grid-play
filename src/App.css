@@ -19,9 +19,11 @@ a {
 @media only screen and (max-width: 800px) {
   #categories li h1,
   .text,
-  .tile-container,
-  .content p
+  .tile-container
   {
     font-size: 0.5em;
+  }
+  .content p, a {
+    font-size: 1em;
   }
 }
