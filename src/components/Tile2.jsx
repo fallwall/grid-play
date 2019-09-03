@@ -20,7 +20,7 @@ export default function Tile2() {
       console.log('This will run 3s!');
       const randNum = Math.floor(Math.random() * 25);
       document.getElementById(randNum).setAttribute('style', `background-color: ${colors[Math.floor(Math.random() * colors.length)]} `);
-    }, 3000);
+    }, 1000);
     return () => clearInterval(interval);
   }, []);
 
