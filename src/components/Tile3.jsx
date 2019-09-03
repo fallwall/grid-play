@@ -74,7 +74,7 @@ const content = [
   },
   {
     url: 'https://i.imgur.com/o2w1tlu.jpg',
-    title: 'Cocky\'s BBQ',
+    title: 'Corky\'s BBQ',
     caption: 'Good ribs. And I really fell in love with their dinner roll. The secret is probably nothing but excessive amount of butter. But... damn.'
   },
   {
